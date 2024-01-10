@@ -1,4 +1,4 @@
-let student = {
+let myObj = {
   name: "amit",
   age: 23,
   getKeys:function () {
